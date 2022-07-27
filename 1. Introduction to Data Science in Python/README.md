@@ -6,15 +6,9 @@ It is divided in 4 weeks of content.
 
 1. Week 1
 
-   - Introduction to the course
-
-     - Python summary
-
-   - Fundamentals of data manipulation
-
-     - Numpy
-     - Regular Expressions
-
+   - Python summary
+   - Numpy
+   - Regular Expressions
    - Assignment 1
 
 1. Week 2
